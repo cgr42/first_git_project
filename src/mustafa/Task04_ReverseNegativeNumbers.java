@@ -34,8 +34,6 @@ public class Task04_ReverseNegativeNumbers {
             return reversInt*-1;}
 
 
-
-
     }}
 
 
